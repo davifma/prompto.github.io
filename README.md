@@ -90,6 +90,8 @@ Uma jornada de exploração e letramento no uso intencional de IAs para o dia a 
   - [PREP](https://miro.com/app/board/uXjVK8HHzF0=/?moveToWidget=3458764594027266199&cot=14)
   - [Dynamic Prompting](https://twitter.com/LinusEkenstam)
   - [HTML5](https://www.w3.org/TR/2011/WD-html5-author-20110809/Overview.html)
+  - [RTF](https://www.perplexity.ai/search/23bee4d3-c52a-42b7-aa0a-2dbfd0f800c6)
+  - [RISEN](https://www.perplexity.ai/search/13a84ea1-0cc7-4d0d-99ae-b7bd1b4130d4)
 - ### Mídia
   - #### [Blogs](midia/blogs.md)
   - #### [LinkedIn](midia/linkedin.md)
