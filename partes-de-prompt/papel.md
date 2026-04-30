@@ -77,8 +77,6 @@ Usar a definição de um Papel para a IA em seus proMpts deve torná-los ainda m
 ## Referências
 Agilers. Almoce e Aprenda: IA na Gestão e Liderança. Disponível em: https://miro.com/app/board/uXjVK8HHzF0=/?moveToWidget=3458764593995821713&cot=14. Acesso em: 15 ago. 2024.
 
-ALMEIDA, Davi Fontebasso Marques de. Papel | prompto. Disponível em: https://davifma.github.io/prompto/partes-de-prompt/papel.html. Acesso em: 30 abr. 2026.
-
 BRADSHAW, Paul. 7 técnicas de design de prompts para IA generativa que todo jornalista deveria conhecer. Online Journalism Blog, 2025. Traduzido do inglês original.
 
 DUARTE, Roberto Dias. Estudo 2024: Personas em Prompts Não Melhoram Resultados Objetivos - RDD10+. 14 jul. 2025. Disponível em: https://www.robertodiasduarte.com.br/estudo-2024-personas-em-prompts-nao-melhoram-resultados-objetivos/. Acesso em: 30 abr. 2026.
